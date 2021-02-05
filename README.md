@@ -32,7 +32,7 @@
 
 
  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=stefex&count_private=true&show_icons=true&theme=react&hide_border=true&include_all_commits=true&custom_title=Github Stats&hide=prs,issues,contribs" alt="contibution" width="420" height="165"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=stefex&count_private=true&show_icons=true&theme=react&hide_border=true&include_all_commits=true&custom_title=Github Stats&hide=prs,issues" alt="contibution" width="420" height="165"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefex&layout=default&theme=react&hide_border=true" alt="langauges" height="165"/>
  </p>
 
