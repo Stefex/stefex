@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/-ReactJs-00CAFF?logo=react&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&logo=next.js&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?&style=for-the-badge&logo=npm&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Nodejs-339933?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Font%20Awesome-339AF0?&style=for-the-badge&logo=font-awesome&logoColor=white" height="25"/>
